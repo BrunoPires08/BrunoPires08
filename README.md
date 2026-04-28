@@ -28,7 +28,7 @@ Desenvolvedor com foco em sistemas web voltados à **gestão industrial e opera�
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP B1](https://img.shields.io/badge/SAP%20Business%20One-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 **Front-end**
 
